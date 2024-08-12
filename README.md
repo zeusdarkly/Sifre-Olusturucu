@@ -28,5 +28,7 @@
 Aşağıda Şifre Oluşturucu'nun örnek bir şifreyi gösteren ekran görüntüsü bulunmaktadır:
 
 1. **Şifre Örneği:**
+ 
    ![Ekran görüntüsü 2024-08-12 205110](https://github.com/user-attachments/assets/802a1467-4f9e-40a8-acfc-c1739d10d01c)
+   
    *Örnek bir oluşturulmuş şifre.*
