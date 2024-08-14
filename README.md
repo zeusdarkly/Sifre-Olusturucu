@@ -8,14 +8,6 @@
 - Şifre uzunluğunu ve karakter türlerini (harf, rakam, özel karakterler) belirleme
 - Kullanıcı dostu arayüz
 
-## Kurulum
-
- **Gerekli Kütüphaneleri Yükleyin:**
-   - Projenin kök dizininde bir terminal açın ve gerekli Python kütüphanelerini yüklemek için şu komutu çalıştırın:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
 ## Kullanım
 
  **Şifre Oluşturma:**
